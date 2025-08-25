@@ -49,9 +49,61 @@ We know Wreckathon values **creativity** and **comedic impact**.
 Bob checks both boxes:  
 - Original idea: Never-before-seen AI stapler concept  
 - Humor-driven storytelling: Every line in the script was optimized for laughs  
-- High effort: Professional script, voiceover, branding, and a fully packaged GitHub repo
+- High effort: Professional script, voiceover, branding, and a fully packaged GitHub repo.
+
+
+# 🛠️ How It Works (Totally Real Technology™)
+1. You press the stapler.
+2. Bob wakes up and analyzes your soul (probably).
+3. It gives you life advice like:
+   - “Drink more water.”
+   - “Restart your brain.”
+   - “Have you tried stapling your problems together?”
+4. Bob then staples your document and your confidence in one click.
+
+
 
 ---
+
+## 🧠 Tech Stack (Absolutely Legit™)
+- 🤖 **AI Personality Engine**: GPT-Sarcasm-9000  
+- 🔊 **Voice Synthesis**: StaplerSpeak v2.5  
+- 📦 **Hardware**: Generic Red Stapler (Office Depot, $2.99)  
+- 🎨 **Design**: MS Paint Pro Max  
+- 🧾 **Paper Supply**: Stolen from the office printer  
+
+---
+
+## 😂 Why This Exists
+We all have that one coworker stapler that seems to judge us silently.  
+We just gave it a voice.
+
+---
+
+## ✨ Highlights
+- ✅ **Creative Concept**  
+- ✅ **Comedy-First Design**  
+- ✅ **Absolutely No Practical Use**  
+- ✅ **Hackathon-Ready Submission**
+
+---
+
+## 🚀 How to “Use” Bob
+Step 1: Buy a stapler.
+Step 2: Print this README.
+Step 3: Staple it.
+Step 4: Cry.
+
+
+---
+
+## 👏 Credits
+- Idea: SABARNI GUHA
+- Art: AI Image Generators  
+- Roast Delivery: Bob the Stapler  
+- Built for **Wreckathon 2025**  
+
+
 
 ## 👨‍💻 Author
 **Sabarni Guha** – Creator  
@@ -74,7 +126,7 @@ MIT License – Use it, share it, meme it.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository or Project Structure
 
 ├── README.md # Full documentation
 ├── AI_Life_Coach_Script.txt # Video narration script
