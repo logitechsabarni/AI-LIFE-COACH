@@ -4,7 +4,7 @@
 ---
 
 ## 🎥 Demo Video
-📺 [Watch the full demo video here](#)  
+📺 [Watch the full demo video here](https://www.youtube.com/watch?v=3klLPkFu-QA)  
 *(Replace `#` with your YouTube/Drive video link)*
 
 ---
