@@ -32,7 +32,36 @@ Hackathons are full of serious apps and productivity tools. We decided to do the
 ✔️ **Comedic Value** – Built to make judges laugh  
 ✔️ **Branding** – Fun illustrations & a clean design  
 
+
 ---
+
+## 💡 Why This Project Stands Out
+- 🎭 **Comedy Meets AI**: We used AI to create a completely ridiculous yet polished product.  
+- 🎨 **Strong Branding**: A funny character (Bob the Stapler) makes this submission memorable.  
+- 🎬 **Engaging Video Demo**: The 2:30 demo shows humor, creativity, and thoughtfulness.  
+
+This isn’t just a product; it’s a joke turned into a polished tech submission.
+
+---
+
+## 🏆 For Wreckathon Judges
+We know Wreckathon values **creativity** and **comedic impact**.  
+Bob checks both boxes:  
+- Original idea: Never-before-seen AI stapler concept  
+- Humor-driven storytelling: Every line in the script was optimized for laughs  
+- High effort: Professional script, voiceover, branding, and a fully packaged GitHub repo
+
+---
+
+## 👨‍💻 Author
+**Sabarni Guha** – Creator  
+💌 Contact: [sabarni.guha15@gmail.com](mailto:sabarni.guha15@gmail.com)
+
+---
+
+## 📜 License
+MIT License – Use it, share it, meme it.  
+
 
 ## 🛠️ How We Built It
 | Step                      | Tools Used                          |
@@ -46,3 +75,11 @@ Hackathons are full of serious apps and productivity tools. We decided to do the
 ---
 
 ## 📂 Repository Structure
+
+├── README.md # Full documentation
+├── AI_Life_Coach_Script.txt # Video narration script
+├── AI_Life_Coach_Voiceover.mp3 # AI-generated voiceover
+├── assets/ # Project images & branding
+│ └── stapler.png # Digital illustration of Bob
+└── video/
+└── AI_Life_Coach_Demo.mp4 # Final demo video
